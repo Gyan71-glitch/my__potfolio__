@@ -231,7 +231,7 @@ Focused on usability and performance.`
           { img: "https://img.icons8.com/ios-filled/50/000000/whatsapp.png", link: "https://wa.me/918882947806" },
           { img: "https://img.icons8.com/ios-filled/50/000000/linkedin.png", link: "https://linkedin.com/in/gyan-vaibhav-8321a4275" },
           { img: "https://img.icons8.com/ios-filled/50/000000/github.png", link: "https://github.com/Gyan71-glitch" },
-          { img: "https://img.icons8.com/ios-filled/50/000000/instagram-new.png", link: "https://instagram.com/__.gyannn.__" },
+          { img: "https://img.icons8.com/ios-filled/50/000000/instagram-new.png", link: "https://www.instagram.com/29.gyann/" },
           { img: "https://img.icons8.com/ios-filled/50/000000/email.png", link: "mailto:raiyn1279@gmail.com" }
         ].map((item, i) => (
           <motion.a key={i} href={item.link} target="_blank" whileHover={{ scale: 1.3 }}
